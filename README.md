@@ -2,5 +2,7 @@
 
 Natural Language Processing Group Coursework
 
+All rights reserved
+
 
 Datasets:
